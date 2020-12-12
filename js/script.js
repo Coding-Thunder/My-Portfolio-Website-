@@ -17,7 +17,7 @@ $(document).ready(()=>{
     });
     // typing animation script 
     var type = new Typed(".typing",{
-        strings: ["Developer","Designer","And It's My Portfolio"],
+        strings: ["Developer","Designer"],
         typeSpeed: 100,
         backSpeed : 60,
         loop :true,
